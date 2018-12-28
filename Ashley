@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <title>Hello there, awesome person!</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1> 
+      Ashley Trading Ideas 
+    </h1>
+    <ul>
+      <li><a href="https://cn.tradingview.com">This is TV index</a></li>
+      <li><a href="https://cn.tradingview.com/chart/USDSEK/NqGLJ3bu/">This is my idea</a>
+        <img src="https://avatars0.githubusercontent.com/u/45992627?v=4"></li>
+    </ul>
+   
+  </body>
+</html>
